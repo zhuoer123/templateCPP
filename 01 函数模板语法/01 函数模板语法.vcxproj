@@ -143,6 +143,9 @@
     <ClCompile Include="01 函数模板.cpp" />
     <ClCompile Include="02 模板函数的注意事项.cpp" />
     <ClCompile Include="03 函数模板案例-数组排序.cpp" />
+    <ClCompile Include="04 普通函数与模板函数区别.cpp" />
+    <ClCompile Include="05 普通函数与函数模板调用规则.cpp" />
+    <ClCompile Include="06 模板的局限性.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
