@@ -144,6 +144,7 @@
     <ClCompile Include="03 类模板中成员函数创建时机.cpp" />
     <ClCompile Include="04 类模板与继承.cpp" />
     <ClCompile Include="05 类模板成员函数类外实现.cpp" />
+    <ClCompile Include="类模板与友元.cpp" />
     <ClCompile Include="类模板的分文件编写.cpp" />
   </ItemGroup>
   <ItemGroup>
