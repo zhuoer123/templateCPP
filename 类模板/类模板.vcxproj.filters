@@ -24,5 +24,19 @@
     <ClCompile Include="03 类模板中成员函数创建时机.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="04 类模板与继承.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05 类模板成员函数类外实现.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="类模板的分文件编写.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Person.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

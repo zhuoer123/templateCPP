@@ -42,16 +42,16 @@ public:
 	}
 };
 
-void test01()
-{
-	MyClass<Person2>m;
-	//m.func1();
-	m.func2();
-}
+//void test01()
+//{
+//	MyClass<Person2>m;
+//	//m.func1();
+//	m.func2();
+//}
 
-int main()
-{
-	test01();
-	system("pause");
-	return 0;
-}
+//int main()
+//{
+//	test01();
+//	system("pause");
+//	return 0;
+//}
