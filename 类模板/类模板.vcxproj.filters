@@ -30,15 +30,21 @@
     <ClCompile Include="05 类模板成员函数类外实现.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="类模板的分文件编写.cpp">
+    <ClCompile Include="06 类模板的分文件编写.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="类模板与友元.cpp">
+    <ClCompile Include="07 类模板与友元.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08 类模板案例-数组类封装.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Person.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Myarr.hpp">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

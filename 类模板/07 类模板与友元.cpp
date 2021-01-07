@@ -37,22 +37,22 @@ public:
 	T2 m_Age;
 };
 
-void test01()
-{
-	Person<string, int>p1("Tom", 18);
-	printPerson(p1);
-}
-
-void test02()
-{
-	Person<string, int>p2("Tom", 18);
-	printPerson2(p2);
-}
-
-int main()
-{
-	test01();
-	test02();
-	system("pause");
-	return 0;
-}
+//void test01()
+//{
+//	Person<string, int>p1("Tom", 18);
+//	printPerson(p1);
+//}
+//
+//void test02()
+//{
+//	Person<string, int>p2("Tom", 18);
+//	printPerson2(p2);
+//}
+//
+//int main()
+//{
+//	test01();
+//	test02();
+//	system("pause");
+//	return 0;
+//}
